@@ -12,7 +12,7 @@ BizCardX is a Streamlit application that extracts business card data using Optic
 
 ## Screenshots
 
-![Alt Text]()
+![Image_uploding](BizCardX\Images\Screenshot (3).png)
 
 ## Dependencies
 
