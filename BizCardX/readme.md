@@ -39,7 +39,7 @@ BizCardX is a Streamlit application that extracts business card data using Optic
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your_username/BizCardX.git`
+1. Clone the repository: `https://github.com/Yagneshsure/BizcardX.git`
 2. Install the dependencies: `pip install -r requirements.txt`
 
 ## Usage
