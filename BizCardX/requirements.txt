@@ -1,0 +1,8 @@
+python == 3.10.7
+pandas == 1.4.4
+numpy == 1.23.3
+Streamlit== 1.25.0
+EasyOCR == 1.7.0
+mysql-connector == 2.2.9
+SQLAlchemy == 1.4.45
+Image ==  2.31.1
