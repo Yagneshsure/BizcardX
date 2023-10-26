@@ -11,18 +11,21 @@ BizCardX is a Streamlit application that extracts business card data using Optic
 - User Interface: Provides an interactive and user-friendly interface for a seamless experience.
 
 ## Screenshots
-
-- ![Image_uploading](Images/Screenshot%20(3).png)
+- ![Image_uploading](Images/image%20selections.png)
 
   - User is prompted to select an image from their local machine.
+
+
+- ![Image_uploading](Images/image%20selections.png)
+
   - The selected image is displayed on the screen for further processing using OCR.
 
-- ![OCR extraction](Images/Screenshot%20(4).png)
+- ![OCR extraction](Images/ocr%20extraction.png)
 
    - Text extracted from the image using EASTOCR is displayed in separate columns such as name, email, address, company name, and phone number.
    - Users are given the option to upload the extracted text to the database or delete it.
 
-- ![Data_Base](Images/Screenshot%20(6).png)
+- ![Data_Base](Images/database.png)
 
   - The extracted data is stored in the database after the OCR extraction process.
 
@@ -39,7 +42,7 @@ BizCardX is a Streamlit application that extracts business card data using Optic
 
 ## Installation
 
-1. Clone the repository: `https://github.com/Yagneshsure/BizcardX.git`
+1. Clone the repository: `git clone https://github.com/Yagneshsure/BizcardX.git`
 2. Install the dependencies: `pip install -r requirements.txt`
 
 ## Usage
